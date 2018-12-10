@@ -1,0 +1,19 @@
+
+#cabecalho, #cabecalho .bg-light {
+    background-color: #b97f8d !important;
+}
+
+#cabecalho .navbar-light .navbar-brand {
+    color: #fff;
+}
+#cabecalho .navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+
+#header{
+    /* DEFINE A ALTURA DE 70VH    VH=VIEW HEIGHT SIGNIFICA ALTURA DA TELA DO USUARIO */
+    height: 70vh; 
+    /* BACKGROUND PARA SETAR A IMAGEM DE FUNDO, URL É O CAMINHO DA IMAGEM, NO-REPEAT É SE A IMAGEM IRÁ REPETIR OU NAO
+    O PRIMEIRO CENTER É O ALINHAMENTO HORIZONTAL O SEGUNDO O ALINHAMENTO VERTICAL. O COVER SERVE PARA DIZER QUE A IMAGEM DEVE 'COBRIR' TODO O ESPAÇO */
+    background: url(caminho_da_imagem)no-repeat center center / cover;
+}
