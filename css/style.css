@@ -13,6 +13,10 @@
     color: #fff;
 }
 
+#search ..btn-outline-success {
+    color: #040404;
+    
+}
 #header .jumbotron {
     background-color: #000000 !important;
     padding-right: 0px !important;
